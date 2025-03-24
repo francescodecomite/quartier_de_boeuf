@@ -8,7 +8,7 @@ Il est conseillé d'essuyer d'abord les traces de sang résiduelles.
 
 Par expérience, la queue et l'espace entre la queue et les pattes arrières sont très fragiles, il vaut mieux les coller (ou encore mieux, ne pas les découper). 
 
-J'ai du 'forcer' la gravure (diviser la vitesse par 3, sinon, on ne voyait rien. 
+J'ai du 'forcer' la gravure (diviser la vitesse par 3, sinon, on ne voyait rien). 
 
 J'ai chargé l'image en arrière plan dans Inkscape et j'ai créé les lignes de coupe et de gravure avec l'outil *tracer des segments de droite et des courbes
 de Bezier*, puis je les ai améliorées avec * Editer les noeuds ...*
