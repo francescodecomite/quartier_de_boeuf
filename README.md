@@ -16,5 +16,5 @@ de Bezier*, puis je les ai améliorées avec * Editer les noeuds ...*
 J'ai trouvé l'image sur internet, mais il n'y a ps de crédit, et donc je ne peux pas citer son auteur. Si vous êtes plus malin-maline que moi, je suis preneur. 
 
 ![A](./coupedeboeuf.jpg "L'image de base") 
-![B](./fini.jpg "Le puzzle terminé") 
-![C](./demonte.jpg "Le puzzle démonté") 
+![B](./fini.JPG "Le puzzle terminé") 
+![C](./demonte.JPG "Le puzzle démonté") 
