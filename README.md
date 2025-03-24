@@ -13,6 +13,8 @@ J'ai du 'forcer' la gravure (diviser la vitesse par 3, sinon, on ne voyait rien)
 J'ai chargé l'image en arrière plan dans Inkscape et j'ai créé les lignes de coupe et de gravure avec l'outil *tracer des segments de droite et des courbes
 de Bezier*, puis je les ai améliorées avec * Editer les noeuds ...*
 
+Le fichier *ledessin.svg* est prêt pour la découpe.
+
 J'ai trouvé l'image sur internet, mais il n'y a ps de crédit, et donc je ne peux pas citer son auteur. Si vous êtes plus malin-maline que moi, je suis preneur. 
 
 ![A](./coupedeboeuf.jpg "L'image de base") 
